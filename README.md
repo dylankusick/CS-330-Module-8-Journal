@@ -1,4 +1,9 @@
 # CS-330-Module-8-Journal
+
+![Screenshot 2025-03-08 131007](https://github.com/user-attachments/assets/8cad46ab-2220-4837-91a7-b2df176bd5cc)
+
+
+
 Includes the files necessary to produce a 3D gym scene
 
 
